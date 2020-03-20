@@ -5,7 +5,7 @@ let skeleton;
 //let flipVideo;
 
 let brain;
-let poseLabel = "A";
+let poseLabel = "";
 
 function setup() {
   createCanvas(640, 480);
